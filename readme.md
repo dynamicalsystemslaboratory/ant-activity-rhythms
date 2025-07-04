@@ -3,7 +3,7 @@
 **Title:** *The role of colony size on activity rhythms of ants*\
 **Authors:** Michael Napoli, Rifat Sipahi, Maurizio Porfiri\
 **Corresponding Author:** Maurizio Porfiri\
-**Date:** May 23, 2025
+**Date:** July 3, 2025
 
 ---
 

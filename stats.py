@@ -2,9 +2,6 @@
 import sys
 from os.path import expanduser
 
-homefolder = expanduser('~')
-sys.path.insert( 0, homefolder+'/prog/four' )
-
 import numpy as np
 from FOUR.RealFourier import *
 
